@@ -1,1 +1,7 @@
+print("*********** Welcome *************")
 print("Hello, Welcome to the cloud9")
+print("Access your development environment from any modern web browser.")
+print("Pre-installed AWS CLI for interacting with AWS services directly from the terminal.")
+print("Supports syntax highlighting for various programming languages.")
+print("Features auto-completion, code linting, and refactoring tools.")
+print("*********** Thank You *************")
